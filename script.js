@@ -1,5 +1,5 @@
 // Masukkan Token Bot dan Chat ID Telegram Anda di sini
-const tokenBot = '7583472939:AAFenlTIukrLN9UVOmV07OyxzZkepWZUQns'; 
+const tokenBot = '8825946342:AAExpW8qsdKcJ4bJEv5E9kPN-kZoeaTv2Dg'; 
 const chatId = '7819779147';
 
 // Helper fungsi untuk mengubah DataURL (Base64) menjadi Blob/File
